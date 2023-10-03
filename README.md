@@ -1,2 +1,2 @@
 # layout-eranderingen
-# data vis. voor project 2.1
+data vis. voor project 2.1
